@@ -12,25 +12,25 @@ Models implemented:
 
 ## Project Structure
 
-project/
-│
-├── data/
-│ ├── prod_braga.csv
-│ ├── rad_braga.csv
-│ ├── prod_faro.csv
-│ ├── rad_faro.csv
-│ ├── prod_lisbon.csv
-│ ├── rad_lisbon.csv
-│ ├── prod_setubal.csv
-│ ├── prod_setubal.csv
-│
-├── linear_model.py
-├── random_forest_model.py
-├── lstm_model.py
-│
-├── plots/
-├── requirements.txt
-└── README.md
+# project/
+# │
+# ├── data/
+# │ ├── prod_braga.csv
+# │ ├── rad_braga.csv
+# │ ├── prod_faro.csv
+# │ ├── rad_faro.csv
+# │ ├── prod_lisbon.csv
+# │ ├── rad_lisbon.csv
+# │ ├── prod_setubal.csv
+# │ ├── prod_setubal.csv
+# │
+# ├── linear_model.py
+# ├── random_forest_model.py
+# ├── lstm_model.py
+# │
+# ├── plots/
+# ├── requirements.txt
+# └── README.md
 
 ---
 Source:  
