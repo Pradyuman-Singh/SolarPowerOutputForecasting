@@ -6,7 +6,7 @@ Models implemented:
 
 - **Baseline:** Linear Regression  
 - **Intermediate:** Random Forest  
-- **Advanced:** LSTM (to be completed)
+- **Advanced:** LSTM
 
 ---
 
