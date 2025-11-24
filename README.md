@@ -87,12 +87,13 @@ Granularity: **Hourly**
 - Metrics: MAE, RMSE, R²  
 
 ## Running the Code
+Navigate to the /SolarPowerOutputForecasting directory in the terminal, and run the model like so:
 
 - Running the linear model:
-python3 linear_model.py
+`python3 linear_model.py`
 
 - Running the random forest model:
-python3 random_forest_model.py
+`python3 random_forest_model.py`
 
 - Running the LSTM model:
-python3 lstm_model.py
+`python3 lstm_model.py`
